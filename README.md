@@ -4,6 +4,14 @@
 - Personal website: https://petermartin.nl
 - Website about optimizing websites: https://the-best-website.com
 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pe7er"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://twitter.com/pe7er"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>  
+</div>
+
+
+
 <!--
 **pe7er/pe7er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
