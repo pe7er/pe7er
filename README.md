@@ -1,4 +1,8 @@
-### Hi there 👋
+### Peter Martin's github repocitory
+
+- Company website: https://db8.nl
+- Personal website: https://petermartin.nl
+- Website about optimizing websites: https://the-best-website.com
 
 <!--
 **pe7er/pe7er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
